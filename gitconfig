@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = eric.kang@hotmail.fr
+	name = Eric Kang
